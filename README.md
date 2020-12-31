@@ -1,2 +1,2 @@
-# P20
-Stuff from WhiteHat JR
+# p5.play-boilerplate
+Boiler plate for p5.play
